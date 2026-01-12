@@ -1,5 +1,5 @@
-<h1 align="center" style="font-family:concert one;"> Hi, I'm Sameeha Imtiaz
-<h4 align="center" style="font-family:calibri;"> A eager Networking and IT Security student at Ontario Tech University 
+<h1 align="center"> Hi, I'm Sameeha Imtiaz
+<h4 align="center"> A eager Networking and IT Security student at Ontario Tech University 
 
   <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" href="sameehai2005@gmail.com" height="35" alt="gmail logo"  />
